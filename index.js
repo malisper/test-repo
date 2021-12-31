@@ -1,3 +1,3 @@
 exports.handler = async function (event) {
-  console.log('Hello World!);
+  console.log('Hello World!');
 };
